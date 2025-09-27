@@ -1,7 +1,7 @@
 *Chief Scientific & Technology Officer, GeneStory JSC*  
 *Director, Center for Biomedical Informatics, Vingroup Big Data Institute*  
 
-📧 [nam@genestory.ai](mailto:nam@genestory.ai) | [LinkedIn](https://linkedin.com/in/namvo) | [GitHub](https://github.com/namsyvo)
+📧 [nam@genestory.ai](mailto:nam@genestory.ai) || [LinkedIn](https://linkedin.com/in/namvo) || [GitHub](https://github.com/namsyvo)
 
 ---
 
