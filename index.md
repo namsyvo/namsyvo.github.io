@@ -1,4 +1,3 @@
-# Nam Sy Vo, Ph.D.  
 *Chief Scientific & Technology Officer, GeneStory JSC*  
 *Director, Center for Biomedical Informatics, Vingroup Big Data Institute*  
 
