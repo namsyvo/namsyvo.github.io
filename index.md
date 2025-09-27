@@ -38,5 +38,5 @@ Currently, I serve as **CTO & Co-Founder of GeneStory JSC** and **Director of Bi
 
 ## Contact
 - 📧 Email: nam@genestory.ai  
-- 🔗 LinkedIn: (https://linkedin.com/in/namvo)  
-- 💻 GitHub: (https://github.com/namsyvo)  
+- 🔗 LinkedIn: [linkedin.com/in/namvo](https://linkedin.com/in/namvo)  
+- 💻 GitHub: [github.com/namsyvo](https://github.com/namsyvo)  
