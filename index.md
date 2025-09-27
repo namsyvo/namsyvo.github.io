@@ -32,11 +32,11 @@ Currently, I serve as **CTO & Co-Founder of GeneStory JSC** and Director of Biom
 - Journal (2025): VN1K: Genome graph-based multi-omics resource, *bioRxiv*  
 - Journal (2024): Genetic variants & skin traits, *BMC Genomics*  
 
-[➡ Full list on Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=6SD9cXgAAAAJ))
+[➡ Full list on Google Scholar](https://scholar.google.com/citations?user=6SD9cXgAAAAJ)
 
 ---
 
 ## Contact
 - 📧 Email: nam@genestory.ai  
-- 🔗 LinkedIn: [linkedin.com/in/namvo](https://linkedin.com/in/namvo)  
-- 💻 GitHub: [github.com/namsyvo](https://github.com/namsyvo)  
+- 🔗 LinkedIn: https://linkedin.com/in/namvo  
+- 💻 GitHub: https://github.com/namsyvo  
