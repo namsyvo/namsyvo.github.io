@@ -21,3 +21,4 @@ permalink: pretty
 
 # Optional: Enable syntax highlighting if you have code snippets
 highlighter: rouge
+show_navbar: false
