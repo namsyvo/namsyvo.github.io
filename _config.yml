@@ -1,3 +1,23 @@
+# _config.yml
+
 title: "Nam Sy Vo"
-description: "Homepage | Biomedical Informatics, AI, Genomics"
+description: "Homepage | Biomedical Informatics, AI, Data Science"
+
+# Theme
 theme: jekyll-theme-minimal
+
+# URL settings (thay YOUR_USERNAME và REPO_NAME)
+url: "https://namsyvo.github.io"    # nếu dùng GitHub Pages
+baseurl: ""                              # để trống nếu repo dùng root, hoặc '/REPO_NAME' nếu dùng repo page
+
+# Author
+author:
+  name: "Nam Sy Vo"
+  email: "nam@genestory.ai"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Optional: Enable syntax highlighting if you have code snippets
+highlighter: rouge
