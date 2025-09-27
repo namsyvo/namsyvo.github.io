@@ -1,6 +1,6 @@
 # Nam Sy Vo, Ph.D.  
 *Chief Scientific & Technology Officer, GeneStory JSC*  
-*Director, Biomedical Informatics Center, Vingroup Big Data Institute*  
+*Director, Center for Biomedical Informatics, Vingroup Big Data Institute*  
 
 📧 [nam@genestory.ai](mailto:nam@genestory.ai) | [LinkedIn](https://linkedin.com/in/namvo) | [GitHub](https://github.com/namsyvo)
 
@@ -8,7 +8,7 @@
 
 ## About Me
 I am a scientist specializing in **Biomedical Informatics**, **Data Science/Machine Learning**, and **High-Performance Computing**.  
-Currently, I serve as **CTO & Co-Founder of GeneStory JSC** and **Director of Biomedical Informatics Center at Vingroup Big Data Institute**.  
+Currently, I serve as **Chief Scientist, CTO & Co-Founder of GeneStory JSC** and **Director of Center for Biomedical Informatics at Vingroup Big Data Institute**.  
 
 ---
 
